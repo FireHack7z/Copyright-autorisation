@@ -1,2 +1,7 @@
-# Copyright-autorisation
-autorisation d'exécution(UNIQUEMENT) du code propriétaire accordée par FireHack7z. 
+autorisation d'exécution(UNIQUEMENT) du code propriétaire accordée par FireHack7z (Pinaud Stéphane).
+
+#AUTORISATION N1
+Raison sociale :JARDINS HUNAULT-COURTEY SERVICES
+Enseigne :JARDINS HUNAULT-COURTEY SERVICES
+Numéro Siren :902149897
+Numéro TVA intracommunautaire :FR32902149897
